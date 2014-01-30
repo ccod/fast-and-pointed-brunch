@@ -76,7 +76,6 @@ module.exports = function(karma) {
     // Plugins to load
     plugins: [
       'karma-jasmine',
-      'karma-coffee-preprocessor',
       'karma-phantomjs-launcher'
     ],
 

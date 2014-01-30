@@ -69,7 +69,6 @@ module.exports = function(karma) {
     // Plugins to load
     plugins: [
       'karma-ng-scenario',
-      'karma-coffee-preprocessor',
       'karma-phantomjs-launcher'
     ],
 

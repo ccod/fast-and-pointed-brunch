@@ -2,7 +2,7 @@ var
   path = require('path'),
   request = require('request'),
   expect = require('expect.js'),
-  server = require(path.join(__dirname, '..', '..', 'server', 'server.coffee')),
+  server = require(path.join(__dirname, '..', '..', 'server', 'server.js')),
   PORT = 3434;
 
 before(function(done) {
