@@ -2,9 +2,12 @@
 
 # Fast and Pointed Brunch
 
-[Brunch](http://brunch.io/)-based project template with [AngularJS](http://angularjs.org) on the frontend and a lean [Express](http://expressjs.com) backend serving only JSON API endpoints. Largely a combination of [Angular Express Seed](https://github.com/btford/angular-express-seed) and [Angular Brunch Seed](https://github.com/scotch/angular-brunch-seed), with some explicit client/server separation and [CoffeeScript](http://coffeescript.org). (I am making some changes to omit the coffeescript part for reading/learning purposes. I have already done plenty of mental parsing with clojurescript, so I am taking a break from that at the moment)
+[Brunch](http://brunch.io/)-based project template with [AngularJS](http://angularjs.org) on the frontend and a lean [Express](http://expressjs.com) backend serving only JSON API endpoints. Largely a combination of [Angular Express Seed](https://github.com/btford/angular-express-seed) and [Angular Brunch Seed](https://github.com/scotch/angular-brunch-seed), with some explicit client/server separation and [CoffeeScript](http://coffeescript.org). 
 
 For a discussion of the rationale behind the architecture, see [http://cmme.org/tdumitrescu/blog/2013/11/lean-angular-express-architecture/](http://cmme.org/tdumitrescu/blog/2013/11/lean-angular-express-architecture/).
+
+### Notes
+I am making some changes to omit the coffeescript part for reading/learning purposes. I have already done plenty of mental parsing with clojurescript, so I am taking a break from that at the moment
 
 ## Usage
 
