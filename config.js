@@ -1,7 +1,7 @@
 exports.config = {
     
   server: {
-    path: 'server/server.coffee', //Will be changing this to js soon.
+    path: 'server/server.js',
     port: 3333,
     base: '/',
     run: true
